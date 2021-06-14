@@ -1,0 +1,5 @@
+[FileLog , current time: Mon Jun 14 17:01:59 2021] Hello, world!
+[FileLog , current time: Mon Jun 14 17:04:15 2021] Hello, world!
+[FileLog , current time: Mon Jun 14 17:04:37 2021] Hello, world!
+[FileLog , current time: Mon Jun 14 17:04:39 2021] Hello, world!
+[FileLog , current time: Mon Jun 14 17:04:40 2021] Hello, world!
