@@ -40,7 +40,6 @@ public:
 class FileLogger: public Logger
 {
 private:
-    static int numberFileLog;
     std::ofstream file;
     Clock current_time;
 public:
@@ -54,8 +53,6 @@ public:
         }
     }
 };
-
-int FileLogger::numberFileLog{1};
 
 class Admin
 {
